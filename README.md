@@ -135,21 +135,6 @@ Here is a list of all sample abilities (Is active ability => if you have to pres
 So, that's it. Hopefully you've enjoyed this guide and could create a cool new data pack with abilities.
 If there are some issues on creating this data pack, feel free to post them as an issue on my Github page.
 
-## Special thanks
-
-* The forge discord for helping me out when I had a programming issue.
-
-* The metamorph mod (https://www.curseforge.com/minecraft/mc-mods/metamorph) for inspiring me to create this mod.
-
-* My friends who playtested this mod.
-
-
-
-
-
-
-
-
 
 
 
