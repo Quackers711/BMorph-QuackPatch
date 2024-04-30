@@ -1,0 +1,16 @@
+{
+    "entity_type": "minecraft:ghast",
+    "grant":
+    [
+        "bmorph:flying",
+        "bmorph:fire_ghast",
+        "bmorph:no_on_fire_damage",
+        "bmorph:no_in_fire_damage",
+        "bmorph:no_hot_floor_damage",
+        "bmorph:no_lava_damage"
+    ],
+    "revoke":
+    [
+        
+    ]
+}

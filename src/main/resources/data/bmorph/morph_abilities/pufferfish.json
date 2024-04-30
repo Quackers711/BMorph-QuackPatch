@@ -1,0 +1,15 @@
+{
+    "entity_type": "minecraft:pufferfish",
+    "grant":
+    [
+        "bmorph:nausea_on_hit",
+        "bmorph:poison_on_hit",
+        "bmorph:water_breathing",
+        "bmorph:water_sanic",
+        "bmorph:pufferfish"
+    ],
+    "revoke":
+    [
+        
+    ]
+}

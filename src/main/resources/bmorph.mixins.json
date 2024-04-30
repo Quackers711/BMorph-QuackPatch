@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "de.budschie.bmorph.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "bmorph.refmap.json",
+	"client": [
+		"PlayerRendererMixin"
+	],
+	"mixins": [
+		"LookAtGoalMixin",
+		"MotionMultiplierMixin"
+	],
+	"minVersion": "0.8"
+}
