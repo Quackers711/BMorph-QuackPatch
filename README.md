@@ -7,6 +7,18 @@ I have marked most of my changes with the comment ``CUSTOM QUACK711``.
 
 Check out the original mod at: https://github.com/Budschie/BudschieMorphMod
 
+#### Fixes
+* Mimics from Artifacts no longer crash the game.
+* No longer possible to die from switching morphs.
+* Added ``morphlist <player>`` to list morphs for a given player.
+* Added ``removemorph <player> <index>`` to remove a morph at a given index of the morphlist of a given player.
+* Attempted to fix some error handling making the game harder to crash. (Maybe)
+
+#### Todo
+* Look into / fix issue with opening Lootr chests near dragon nests from Ice and Fire
+* Fix fallback mob / more error handling.
+* Hide blacklisted mobs from the morph list.
+
 # Original BMorph Description
 ## What can this mod do?
 This mod has several features, such as following:
